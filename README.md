@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio — Kush Bhardwaj
+# 🌐 Personal Portfolio — Rudransh Upadhyay
 
 A modern, responsive developer portfolio built using **React.js** and **Tailwind CSS**, showcasing my projects, skills, and experience.
 
@@ -6,7 +6,7 @@ A modern, responsive developer portfolio built using **React.js** and **Tailwind
 
 ## 🚀 Live Demo
 
-🔗 https://portfolio-livid-chi-49.vercel.app/
+🔗 https://portfolio-lime-ten-47.vercel.app/
 
 ---
 
@@ -54,7 +54,7 @@ portfolio/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/kushB645/portfolio.git
+git clone https://github.com/rudransh100/Portfolio.git
 ```
 
 2. Navigate to project folder
@@ -83,14 +83,7 @@ npm run dev
 
 ---
 
-## 📬 Contact
 
-* 📧 Email: [kushb545@gmail.com](mailto:kushb545@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 💻 GitHub: https://github.com/your-username
-* 🧠 LeetCode: https://leetcode.com/your-profile
-
----
 
 ## 🤝 Contributing
 
