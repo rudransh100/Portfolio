@@ -309,7 +309,7 @@ const Contact = () => {
 
       <footer className="w-full border-t border-slate-800 bg-slate-950/50 backdrop-blur-sm">
         <div className=" max-w-6xl mx-auto py-8 px-6 text-center text-slate-500">
-          <p>© 2026 Kush Bhardwaj. All rights reserved.</p>
+          <p>© 2026 Rudransh Upadhyay. All rights reserved.</p>
         </div>
       </footer>
     </section>

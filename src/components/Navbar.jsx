@@ -20,7 +20,7 @@ const Navbar = () => {
         >
           <Code className="w-6 h-6 text-blue-500" />
           <span className="bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent font-semibold">
-            KB
+            RU
           </span>
         </a>
 
