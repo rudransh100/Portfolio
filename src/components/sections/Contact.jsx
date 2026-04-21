@@ -105,7 +105,7 @@ const Contact = () => {
           <div className="space-y-4">
             {/* EMAIL */}
             <a
-              href="mailto:kushb545@gmail.com"
+              href="mailto:rudranshupadhyay2004@gmail.com"
               className="block p-4 border border-slate-800 bg-slate-900/50 rounded-xl 
                  hover:border-slate-700 hover:translate-x-2.5 
                  transition-all duration-300 group cursor-pointer"
