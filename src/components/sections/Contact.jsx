@@ -130,7 +130,7 @@ const Contact = () => {
 
             {/* PHONE */}
             <a
-              href="tel:+919758886745"
+              href="tel:+91-9336188062"
               className="block p-4 border border-slate-800 bg-slate-900/50 rounded-xl 
                  hover:border-slate-700 hover:translate-x-2.5 
                  transition-all duration-300 group cursor-pointer"
