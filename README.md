@@ -6,7 +6,7 @@ A modern, responsive developer portfolio built using **React.js** and **Tailwind
 
 ## 🚀 Live Demo
 
-🔗 https://portfolio-lime-ten-47.vercel.app/
+🔗 https://rudransh01.vercel.app/
 
 ---
 
