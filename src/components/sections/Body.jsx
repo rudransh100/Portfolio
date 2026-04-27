@@ -36,8 +36,7 @@ const Body = () => {
         variants={container} initial="hidden" whileInView="show" viewport={{ once: true }}className="flex flex-col justify-center items-center gap-3 h-full px-4"
       >
         <motion.div variants={slideUp} className="inline-flex gap-2 bg-slate-800/50 border m-6 px-4 py-3 border-slate-700 rounded-full backdrop-blur-md text-slate-300">
-          <span>👋</span>
-          <span>Welcome to my portfolio</span>
+          <span>{' Hi, I’m Rudransh👋'}</span>
         </motion.div>
 
         <motion.h1
@@ -54,7 +53,7 @@ const Body = () => {
           <span className="text-gray-300">Frontend Developer</span>
           <span className="hidden sm:inline text-blue-500">•</span>
           <span className="bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-            React Specialist
+            React 
           </span>
         </motion.div>
 
@@ -63,7 +62,7 @@ const Body = () => {
           className="my-2 flex flex-col leading-relaxed text-gray-400 text-center max-w-2xl text-sm sm:text-base md:text-lg px-4 "
         >
           <span className="whitespace-pre-line">
-            {`Crafting responsive and performant web applications with modern technologies.Passionate about clean code, user experience, and continuous learning.`}
+            {`Frontend Developer focused on building scalable and high-performance web applications with React. I write clean, maintainable code and create intuitive user experiences that feel smooth and reliable.`}
           </span>
         </motion.div>
         {/* buttons */}
